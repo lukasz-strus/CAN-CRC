@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAN-CRC", "CAN-CRC\CAN-CRC.csproj", "{36F742E6-C948-40BE-B183-DFD0CAFBA33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F742E6-C948-40BE-B183-DFD0CAFBA33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F742E6-C948-40BE-B183-DFD0CAFBA33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F742E6-C948-40BE-B183-DFD0CAFBA33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F742E6-C948-40BE-B183-DFD0CAFBA33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {385C8F7D-C21F-4E8D-BDC2-B449FC526B25}
+	EndGlobalSection
+EndGlobal
